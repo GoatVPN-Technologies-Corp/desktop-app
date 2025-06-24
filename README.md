@@ -1,2 +1,2 @@
-# 🚀 **GoatVPN Desktop App Windows**  
-_Seu portal para uma internet livre, rápida e segura._  
+# 🚀 **GoatVPN - Desktop App Windows**  
+_Your portal to a free, fast and secure internet.._  
